@@ -97,3 +97,21 @@
 2026-03-04 18:48:19,820 - __main__ - INFO - PHASE 3: COLLECTING ALL FIGHTS & DETAILED STATS
 2026-03-04 18:48:19,820 - __main__ - INFO - ============================================================
 2026-03-04 18:48:19,821 - __main__ - INFO - Processing fights from 24 events
+2026-03-04 18:54:12,571 - __main__ - INFO - Processed 10/24 events, 130 new fights added
+2026-03-04 18:59:31,399 - __main__ - INFO - Processed 20/24 events, 248 new fights added
+2026-03-04 19:01:39,144 - __main__ - INFO - ✅ Phase 3 Complete - Total fights in DB: 296
+2026-03-04 19:01:39,144 - __main__ - INFO - 🏁 MILESTONE: PHASE 3 COMPLETE - 296 completed 
+2026-03-04 19:01:39,156 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 19:01:39,156 - __main__ - INFO -    Fighters: 4455 total, 4455 with career stats
+2026-03-04 19:01:39,156 - __main__ - INFO -    Events: 24
+2026-03-04 19:01:39,156 - __main__ - INFO -    Fights: 296
+2026-03-04 19:01:39,156 - __main__ - INFO -    Fight Stats: 592
+2026-03-04 19:01:39,156 - __main__ - INFO - ============================================================
+2026-03-04 19:01:39,156 - __main__ - INFO - PHASES 2 & 3 COMPLETE!
+2026-03-04 19:01:39,156 - __main__ - INFO - ============================================================
+2026-03-04 19:01:39,156 - __main__ - INFO - New events added: 24
+2026-03-04 19:01:39,156 - __main__ - INFO - New fights added: 296
+2026-03-04 19:01:39,156 - __main__ - INFO - New fight stats added: 592
+2026-03-04 19:01:39,156 - __main__ - INFO - Errors: 0
+2026-03-04 19:01:39,156 - __main__ - INFO - End time: 2026-03-04 19:01:39.156685
+2026-03-04 19:01:39,156 - scrapers.ufc_scraper - INFO - 📊 Scraping Stats: 321 requests, 0 errors

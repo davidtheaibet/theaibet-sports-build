@@ -41,14 +41,21 @@ echo ""
 echo "📜 Recent Log Activity:"
 echo "----------------------"
 
-LOG_FILE=~/.openclaw/workspace/theaibet-sports-build/comprehensive_live.log
+# Check phases 2&3 log first, then comprehensive log
+LOG_FILE=~/.openclaw/workspace/theaibet-sports-build/phases_2_3_live.log
 if [ -f "$LOG_FILE" ]; then
-    # Show last milestone or progress
-    tail -20 "$LOG_FILE" 2>/dev/null | grep -E "(MILESTONE|PROGRESS|Progress:|Phase|COMPLETE)" | tail -5
+    tail -10 "$LOG_FILE" 2>/dev/null | grep -E "(MILESTONE|PROGRESS|Progress:|Phase|COMPLETE|events|fights)" | tail -5
     echo ""
     echo "📝 Full log: $LOG_FILE"
 else
-    echo "No log file found yet"
+    LOG_FILE=~/.openclaw/workspace/theaibet-sports-build/comprehensive_live.log
+    if [ -f "$LOG_FILE" ]; then
+        tail -20 "$LOG_FILE" 2>/dev/null | grep -E "(MILESTONE|PROGRESS|Progress:|Phase|COMPLETE)" | tail -5
+        echo ""
+        echo "📝 Full log: $LOG_FILE"
+    else
+        echo "No log file found yet"
+    fi
 fi
 
 echo ""
