@@ -1,0 +1,105 @@
+2026-03-04 14:14:17,328 - __main__ - INFO - 🚀 STARTING FIGHTER CAREER STATS UPDATE (FIXED)
+2026-03-04 14:14:17,328 - __main__ - INFO - Start time: 2026-03-04 14:14:17.328159
+2026-03-04 14:14:17,370 - __main__ - INFO - Found 4451 fighters needing career stats
+2026-03-04 14:16:08,746 - __main__ - INFO - Progress: 50/4451 processed | Updated: 50 | Errors: 0
+2026-03-04 14:17:54,306 - __main__ - INFO - Progress: 100/4451 processed | Updated: 100 | Errors: 0
+2026-03-04 14:19:45,038 - __main__ - INFO - Progress: 150/4451 processed | Updated: 150 | Errors: 0
+2026-03-04 14:21:36,499 - __main__ - INFO - Progress: 200/4451 processed | Updated: 200 | Errors: 0
+2026-03-04 14:23:52,154 - __main__ - INFO - Progress: 250/4451 processed | Updated: 250 | Errors: 0
+2026-03-04 14:26:15,007 - __main__ - INFO - Progress: 300/4451 processed | Updated: 300 | Errors: 0
+2026-03-04 14:28:28,535 - __main__ - INFO - Progress: 350/4451 processed | Updated: 350 | Errors: 0
+2026-03-04 14:30:50,068 - __main__ - INFO - Progress: 400/4451 processed | Updated: 400 | Errors: 0
+2026-03-04 14:33:11,836 - __main__ - INFO - Progress: 450/4451 processed | Updated: 450 | Errors: 0
+2026-03-04 14:35:32,503 - __main__ - INFO - Progress: 500/4451 processed | Updated: 500 | Errors: 0
+2026-03-04 14:35:32,504 - __main__ - INFO - 🏁 MILESTONE: 500/4451 | Updated: 500
+2026-03-04 14:37:48,869 - __main__ - INFO - Progress: 550/4451 processed | Updated: 550 | Errors: 0
+2026-03-04 14:40:10,489 - __main__ - INFO - Progress: 600/4451 processed | Updated: 600 | Errors: 0
+2026-03-04 14:42:26,129 - __main__ - INFO - Progress: 650/4451 processed | Updated: 650 | Errors: 0
+2026-03-04 14:44:42,299 - __main__ - INFO - Progress: 700/4451 processed | Updated: 700 | Errors: 0
+2026-03-04 14:47:07,223 - __main__ - INFO - Progress: 750/4451 processed | Updated: 750 | Errors: 0
+2026-03-04 14:49:32,902 - __main__ - INFO - Progress: 800/4451 processed | Updated: 800 | Errors: 0
+2026-03-04 14:51:54,322 - __main__ - INFO - Progress: 850/4451 processed | Updated: 850 | Errors: 0
+2026-03-04 14:53:55,306 - __main__ - INFO - Progress: 900/4451 processed | Updated: 900 | Errors: 0
+2026-03-04 14:55:45,758 - __main__ - INFO - Progress: 950/4451 processed | Updated: 950 | Errors: 0
+2026-03-04 14:57:35,216 - __main__ - INFO - Progress: 1000/4451 processed | Updated: 1000 | Errors: 0
+2026-03-04 14:57:35,216 - __main__ - INFO - 🏁 MILESTONE: 1000/4451 | Updated: 1000
+2026-03-04 14:59:25,018 - __main__ - INFO - Progress: 1050/4451 processed | Updated: 1050 | Errors: 0
+2026-03-04 15:01:13,456 - __main__ - INFO - Progress: 1100/4451 processed | Updated: 1100 | Errors: 0
+2026-03-04 15:03:05,065 - __main__ - INFO - Progress: 1150/4451 processed | Updated: 1150 | Errors: 0
+2026-03-04 15:04:53,189 - __main__ - INFO - Progress: 1200/4451 processed | Updated: 1200 | Errors: 0
+2026-03-04 15:06:57,300 - __main__ - INFO - Progress: 1250/4451 processed | Updated: 1250 | Errors: 0
+2026-03-04 15:09:09,080 - __main__ - INFO - Progress: 1300/4451 processed | Updated: 1300 | Errors: 0
+2026-03-04 15:11:20,318 - __main__ - INFO - Progress: 1350/4451 processed | Updated: 1350 | Errors: 0
+2026-03-04 15:13:28,268 - __main__ - INFO - Progress: 1400/4451 processed | Updated: 1400 | Errors: 0
+2026-03-04 15:15:36,376 - __main__ - INFO - Progress: 1450/4451 processed | Updated: 1450 | Errors: 0
+2026-03-04 15:17:46,218 - __main__ - INFO - Progress: 1500/4451 processed | Updated: 1500 | Errors: 0
+2026-03-04 15:17:46,218 - __main__ - INFO - 🏁 MILESTONE: 1500/4451 | Updated: 1500
+2026-03-04 15:20:07,433 - __main__ - INFO - Progress: 1550/4451 processed | Updated: 1550 | Errors: 0
+2026-03-04 15:22:28,858 - __main__ - INFO - Progress: 1600/4451 processed | Updated: 1600 | Errors: 0
+2026-03-04 15:24:44,492 - __main__ - INFO - Progress: 1650/4451 processed | Updated: 1650 | Errors: 0
+2026-03-04 15:26:53,896 - __main__ - INFO - Progress: 1700/4451 processed | Updated: 1700 | Errors: 0
+2026-03-04 15:29:09,611 - __main__ - INFO - Progress: 1750/4451 processed | Updated: 1750 | Errors: 0
+2026-03-04 15:31:24,413 - __main__ - INFO - Progress: 1800/4451 processed | Updated: 1800 | Errors: 0
+2026-03-04 15:33:31,490 - __main__ - INFO - Progress: 1850/4451 processed | Updated: 1850 | Errors: 0
+2026-03-04 15:35:43,370 - __main__ - INFO - Progress: 1900/4451 processed | Updated: 1900 | Errors: 0
+2026-03-04 15:37:42,181 - __main__ - INFO - Progress: 1950/4451 processed | Updated: 1950 | Errors: 0
+2026-03-04 15:39:30,569 - __main__ - INFO - Progress: 2000/4451 processed | Updated: 2000 | Errors: 0
+2026-03-04 15:39:30,569 - __main__ - INFO - 🏁 MILESTONE: 2000/4451 | Updated: 2000
+2026-03-04 15:41:20,521 - __main__ - INFO - Progress: 2050/4451 processed | Updated: 2050 | Errors: 0
+2026-03-04 15:43:10,910 - __main__ - INFO - Progress: 2100/4451 processed | Updated: 2100 | Errors: 0
+2026-03-04 15:44:59,090 - __main__ - INFO - Progress: 2150/4451 processed | Updated: 2150 | Errors: 0
+2026-03-04 15:46:48,281 - __main__ - INFO - Progress: 2200/4451 processed | Updated: 2200 | Errors: 0
+2026-03-04 15:48:36,522 - __main__ - INFO - Progress: 2250/4451 processed | Updated: 2250 | Errors: 0
+2026-03-04 15:50:24,425 - __main__ - INFO - Progress: 2300/4451 processed | Updated: 2300 | Errors: 0
+2026-03-04 15:52:12,171 - __main__ - INFO - Progress: 2350/4451 processed | Updated: 2350 | Errors: 0
+2026-03-04 15:53:59,218 - __main__ - INFO - Progress: 2400/4451 processed | Updated: 2400 | Errors: 0
+2026-03-04 15:55:49,357 - __main__ - INFO - Progress: 2450/4451 processed | Updated: 2450 | Errors: 0
+2026-03-04 15:57:38,706 - __main__ - INFO - Progress: 2500/4451 processed | Updated: 2500 | Errors: 0
+2026-03-04 15:57:38,706 - __main__ - INFO - 🏁 MILESTONE: 2500/4451 | Updated: 2500
+2026-03-04 15:59:28,236 - __main__ - INFO - Progress: 2550/4451 processed | Updated: 2550 | Errors: 0
+2026-03-04 16:01:32,771 - __main__ - INFO - Progress: 2600/4451 processed | Updated: 2600 | Errors: 0
+2026-03-04 16:03:22,773 - __main__ - INFO - Progress: 2650/4451 processed | Updated: 2650 | Errors: 0
+2026-03-04 16:05:12,595 - __main__ - INFO - Progress: 2700/4451 processed | Updated: 2700 | Errors: 0
+2026-03-04 16:07:03,547 - __main__ - INFO - Progress: 2750/4451 processed | Updated: 2750 | Errors: 0
+2026-03-04 16:08:53,233 - __main__ - INFO - Progress: 2800/4451 processed | Updated: 2800 | Errors: 0
+2026-03-04 16:10:48,169 - __main__ - INFO - Progress: 2850/4451 processed | Updated: 2850 | Errors: 0
+2026-03-04 16:12:38,152 - __main__ - INFO - Progress: 2900/4451 processed | Updated: 2900 | Errors: 0
+2026-03-04 16:14:29,538 - __main__ - INFO - Progress: 2950/4451 processed | Updated: 2950 | Errors: 0
+2026-03-04 16:16:19,658 - __main__ - INFO - Progress: 3000/4451 processed | Updated: 3000 | Errors: 0
+2026-03-04 16:16:19,658 - __main__ - INFO - 🏁 MILESTONE: 3000/4451 | Updated: 3000
+2026-03-04 16:18:08,834 - __main__ - INFO - Progress: 3050/4451 processed | Updated: 3050 | Errors: 0
+2026-03-04 16:19:58,718 - __main__ - INFO - Progress: 3100/4451 processed | Updated: 3100 | Errors: 0
+2026-03-04 16:21:51,292 - __main__ - INFO - Progress: 3150/4451 processed | Updated: 3150 | Errors: 0
+2026-03-04 16:23:40,395 - __main__ - INFO - Progress: 3200/4451 processed | Updated: 3200 | Errors: 0
+2026-03-04 16:25:28,227 - __main__ - INFO - Progress: 3250/4451 processed | Updated: 3250 | Errors: 0
+2026-03-04 16:27:18,032 - __main__ - INFO - Progress: 3300/4451 processed | Updated: 3300 | Errors: 0
+2026-03-04 16:29:06,831 - __main__ - INFO - Progress: 3350/4451 processed | Updated: 3350 | Errors: 0
+2026-03-04 16:30:57,554 - __main__ - INFO - Progress: 3400/4451 processed | Updated: 3400 | Errors: 0
+2026-03-04 16:32:47,150 - __main__ - INFO - Progress: 3450/4451 processed | Updated: 3450 | Errors: 0
+2026-03-04 16:34:36,642 - __main__ - INFO - Progress: 3500/4451 processed | Updated: 3500 | Errors: 0
+2026-03-04 16:34:36,642 - __main__ - INFO - 🏁 MILESTONE: 3500/4451 | Updated: 3500
+2026-03-04 16:36:26,495 - __main__ - INFO - Progress: 3550/4451 processed | Updated: 3550 | Errors: 0
+2026-03-04 16:38:15,183 - __main__ - INFO - Progress: 3600/4451 processed | Updated: 3600 | Errors: 0
+2026-03-04 16:40:04,307 - __main__ - INFO - Progress: 3650/4451 processed | Updated: 3650 | Errors: 0
+2026-03-04 16:41:53,176 - __main__ - INFO - Progress: 3700/4451 processed | Updated: 3700 | Errors: 0
+2026-03-04 16:43:42,913 - __main__ - INFO - Progress: 3750/4451 processed | Updated: 3750 | Errors: 0
+2026-03-04 16:45:32,031 - __main__ - INFO - Progress: 3800/4451 processed | Updated: 3800 | Errors: 0
+2026-03-04 16:47:20,154 - __main__ - INFO - Progress: 3850/4451 processed | Updated: 3850 | Errors: 0
+2026-03-04 16:49:07,696 - __main__ - INFO - Progress: 3900/4451 processed | Updated: 3900 | Errors: 0
+2026-03-04 16:50:55,514 - __main__ - INFO - Progress: 3950/4451 processed | Updated: 3950 | Errors: 0
+2026-03-04 16:52:44,490 - __main__ - INFO - Progress: 4000/4451 processed | Updated: 4000 | Errors: 0
+2026-03-04 16:52:44,490 - __main__ - INFO - 🏁 MILESTONE: 4000/4451 | Updated: 4000
+2026-03-04 16:54:32,732 - __main__ - INFO - Progress: 4050/4451 processed | Updated: 4050 | Errors: 0
+2026-03-04 16:56:20,829 - __main__ - INFO - Progress: 4100/4451 processed | Updated: 4100 | Errors: 0
+2026-03-04 16:58:09,828 - __main__ - INFO - Progress: 4150/4451 processed | Updated: 4150 | Errors: 0
+2026-03-04 16:59:58,738 - __main__ - INFO - Progress: 4200/4451 processed | Updated: 4200 | Errors: 0
+2026-03-04 17:01:46,009 - __main__ - INFO - Progress: 4250/4451 processed | Updated: 4250 | Errors: 0
+2026-03-04 17:03:37,247 - __main__ - INFO - Progress: 4300/4451 processed | Updated: 4300 | Errors: 0
+2026-03-04 17:05:26,181 - __main__ - INFO - Progress: 4350/4451 processed | Updated: 4350 | Errors: 0
+2026-03-04 17:07:14,600 - __main__ - INFO - Progress: 4400/4451 processed | Updated: 4400 | Errors: 0
+2026-03-04 17:09:03,759 - __main__ - INFO - Progress: 4450/4451 processed | Updated: 4450 | Errors: 0
+2026-03-04 17:09:05,876 - __main__ - INFO - ============================================================
+2026-03-04 17:09:05,876 - __main__ - INFO - ✅ UPDATE COMPLETE!
+2026-03-04 17:09:05,876 - __main__ - INFO - Fighters updated: 4451
+2026-03-04 17:09:05,876 - __main__ - INFO - Errors: 0
+2026-03-04 17:09:05,876 - __main__ - INFO - End time: 2026-03-04 17:09:05.876619
