@@ -6,9 +6,13 @@ import logging
 from typing import List, Optional
 from sqlalchemy.orm import Session
 
-from src.scrapers.ufc_scraper import UFCScraper
-from src.scrapers.odds_scraper import OddsScraper
-from src.models import Fighter, Event, Fight, FightStat, Odds, get_session, init_db
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from scrapers.ufc_scraper import UFCScraper
+from scrapers.odds_scraper import OddsScraper
+from models import Fighter, Event, Fight, FightStat, Odds, get_session, init_db
 
 logger = logging.getLogger(__name__)
 

@@ -34,6 +34,19 @@ class Fighter(Base):
     nationality = Column(String(100))
     team = Column(String(200))
     
+    # Career Statistics (from UFC Stats)
+    slpm = Column(Float)                    # Significant Strikes Landed per Minute
+    sig_strike_acc = Column(Float)          # Significant Striking Accuracy (0.0-1.0)
+    sapm = Column(Float)                    # Significant Strikes Absorbed per Minute
+    sig_strike_def = Column(Float)          # Significant Strike Defence (0.0-1.0)
+    td_avg = Column(Float)                  # Average Takedowns Landed per 15 minutes
+    td_acc = Column(Float)                  # Takedown Accuracy (0.0-1.0)
+    td_def = Column(Float)                  # Takedown Defense (0.0-1.0)
+    sub_avg = Column(Float)                 # Average Submissions Attempted per 15 minutes
+    
+    # Additional physical
+    weight_lbs = Column(Integer)            # Actual weight in pounds
+    
     # Metadata
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
