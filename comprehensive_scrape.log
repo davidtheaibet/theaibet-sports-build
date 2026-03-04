@@ -1,0 +1,225 @@
+2026-03-04 10:34:20,262 - __main__ - INFO - 🚀 STARTING COMPREHENSIVE UFC DATA COLLECTION
+2026-03-04 10:34:20,263 - __main__ - INFO - Start time: 2026-03-04 10:34:20.263031
+2026-03-04 10:34:32,768 - __main__ - INFO - 🚀 STARTING COMPREHENSIVE UFC DATA COLLECTION
+2026-03-04 10:34:32,768 - __main__ - INFO - Start time: 2026-03-04 10:34:32.768831
+2026-03-04 10:34:32,789 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 10:34:32,789 - __main__ - INFO -    Fighters: 4455 total, 0 with career stats
+2026-03-04 10:34:32,789 - __main__ - INFO -    Events: 33
+2026-03-04 10:34:32,789 - __main__ - INFO -    Fights: 218
+2026-03-04 10:34:32,789 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 10:34:32,789 - __main__ - INFO - ============================================================
+2026-03-04 10:34:32,789 - __main__ - INFO - PHASE 1: COLLECTING FIGHTER CAREER STATISTICS
+2026-03-04 10:34:32,789 - __main__ - INFO - ============================================================
+2026-03-04 10:34:32,818 - __main__ - INFO - Found 4455 fighters needing career stats
+2026-03-04 10:36:17,712 - __main__ - INFO - Progress: 50/4455 fighters processed
+2026-03-04 10:38:01,798 - __main__ - INFO - Progress: 100/4455 fighters processed
+2026-03-04 10:39:55,358 - __main__ - INFO - Progress: 150/4455 fighters processed
+2026-03-04 10:41:45,930 - __main__ - INFO - Progress: 200/4455 fighters processed
+2026-03-04 10:43:31,158 - __main__ - INFO - Progress: 250/4455 fighters processed
+2026-03-04 10:45:17,216 - __main__ - INFO - Progress: 300/4455 fighters processed
+2026-03-04 10:47:04,294 - __main__ - INFO - Progress: 350/4455 fighters processed
+2026-03-04 10:48:50,542 - __main__ - INFO - Progress: 400/4455 fighters processed
+2026-03-04 10:50:36,995 - __main__ - INFO - Progress: 450/4455 fighters processed
+2026-03-04 10:52:28,825 - __main__ - INFO - 🏁 MILESTONE: Fighter Career Stats - 500 completed of 4455
+2026-03-04 10:52:28,868 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 10:52:28,868 - __main__ - INFO -    Fighters: 4455 total, 0 with career stats
+2026-03-04 10:52:28,868 - __main__ - INFO -    Events: 33
+2026-03-04 10:52:28,868 - __main__ - INFO -    Fights: 218
+2026-03-04 10:52:28,868 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 10:52:28,868 - __main__ - INFO - Progress: 500/4455 fighters processed
+2026-03-04 10:54:13,552 - __main__ - INFO - Progress: 550/4455 fighters processed
+2026-03-04 10:55:59,140 - __main__ - INFO - Progress: 600/4455 fighters processed
+2026-03-04 10:57:44,939 - __main__ - INFO - Progress: 650/4455 fighters processed
+2026-03-04 10:59:32,368 - __main__ - INFO - Progress: 700/4455 fighters processed
+2026-03-04 11:01:19,435 - __main__ - INFO - Progress: 750/4455 fighters processed
+2026-03-04 11:03:05,225 - __main__ - INFO - Progress: 800/4455 fighters processed
+2026-03-04 11:04:50,584 - __main__ - INFO - Progress: 850/4455 fighters processed
+2026-03-04 11:06:36,454 - __main__ - INFO - Progress: 900/4455 fighters processed
+2026-03-04 11:08:21,967 - __main__ - INFO - Progress: 950/4455 fighters processed
+2026-03-04 11:10:14,464 - __main__ - INFO - 🏁 MILESTONE: Fighter Career Stats - 1000 completed of 4455
+2026-03-04 11:10:14,509 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 11:10:14,509 - __main__ - INFO -    Fighters: 4455 total, 0 with career stats
+2026-03-04 11:10:14,509 - __main__ - INFO -    Events: 33
+2026-03-04 11:10:14,509 - __main__ - INFO -    Fights: 218
+2026-03-04 11:10:14,509 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 11:10:14,509 - __main__ - INFO - Progress: 1000/4455 fighters processed
+2026-03-04 11:12:02,879 - __main__ - INFO - Progress: 1050/4455 fighters processed
+2026-03-04 11:13:50,058 - __main__ - INFO - Progress: 1100/4455 fighters processed
+2026-03-04 11:15:37,690 - __main__ - INFO - Progress: 1150/4455 fighters processed
+2026-03-04 11:17:25,153 - __main__ - INFO - Progress: 1200/4455 fighters processed
+2026-03-04 11:19:11,558 - __main__ - INFO - Progress: 1250/4455 fighters processed
+2026-03-04 11:20:59,459 - __main__ - INFO - Progress: 1300/4455 fighters processed
+2026-03-04 11:22:46,085 - __main__ - INFO - Progress: 1350/4455 fighters processed
+2026-03-04 11:24:32,253 - __main__ - INFO - Progress: 1400/4455 fighters processed
+2026-03-04 11:26:18,717 - __main__ - INFO - Progress: 1450/4455 fighters processed
+2026-03-04 11:28:04,632 - __main__ - INFO - 🏁 MILESTONE: Fighter Career Stats - 1500 completed of 4455
+2026-03-04 11:28:04,641 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 11:28:04,641 - __main__ - INFO -    Fighters: 4455 total, 0 with career stats
+2026-03-04 11:28:04,641 - __main__ - INFO -    Events: 33
+2026-03-04 11:28:04,641 - __main__ - INFO -    Fights: 218
+2026-03-04 11:28:04,641 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 11:28:04,641 - __main__ - INFO - Progress: 1500/4455 fighters processed
+2026-03-04 11:29:50,436 - __main__ - INFO - Progress: 1550/4455 fighters processed
+2026-03-04 11:31:37,227 - __main__ - INFO - Progress: 1600/4455 fighters processed
+2026-03-04 11:33:25,091 - __main__ - INFO - Progress: 1650/4455 fighters processed
+2026-03-04 11:35:12,703 - __main__ - INFO - Progress: 1700/4455 fighters processed
+2026-03-04 11:36:59,257 - __main__ - INFO - Progress: 1750/4455 fighters processed
+2026-03-04 11:38:45,297 - __main__ - INFO - Progress: 1800/4455 fighters processed
+2026-03-04 11:40:32,357 - __main__ - INFO - Progress: 1850/4455 fighters processed
+2026-03-04 11:42:19,107 - __main__ - INFO - Progress: 1900/4455 fighters processed
+2026-03-04 11:44:05,804 - __main__ - INFO - Progress: 1950/4455 fighters processed
+2026-03-04 11:45:52,362 - __main__ - INFO - 🏁 MILESTONE: Fighter Career Stats - 2000 completed of 4455
+2026-03-04 11:45:52,377 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 11:45:52,377 - __main__ - INFO -    Fighters: 4455 total, 0 with career stats
+2026-03-04 11:45:52,377 - __main__ - INFO -    Events: 33
+2026-03-04 11:45:52,377 - __main__ - INFO -    Fights: 218
+2026-03-04 11:45:52,377 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 11:45:52,377 - __main__ - INFO - Progress: 2000/4455 fighters processed
+2026-03-04 11:47:38,517 - __main__ - INFO - Progress: 2050/4455 fighters processed
+2026-03-04 11:49:26,619 - __main__ - INFO - Progress: 2100/4455 fighters processed
+2026-03-04 11:51:12,671 - __main__ - INFO - Progress: 2150/4455 fighters processed
+2026-03-04 11:52:59,243 - __main__ - INFO - Progress: 2200/4455 fighters processed
+2026-03-04 11:54:47,563 - __main__ - INFO - Progress: 2250/4455 fighters processed
+2026-03-04 11:56:38,848 - __main__ - INFO - Progress: 2300/4455 fighters processed
+2026-03-04 11:58:26,450 - __main__ - INFO - Progress: 2350/4455 fighters processed
+2026-03-04 12:00:12,443 - __main__ - INFO - Progress: 2400/4455 fighters processed
+2026-03-04 12:02:00,887 - __main__ - INFO - Progress: 2450/4455 fighters processed
+2026-03-04 12:03:48,260 - __main__ - INFO - 🏁 MILESTONE: Fighter Career Stats - 2500 completed of 4455
+2026-03-04 12:03:48,277 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 12:03:48,277 - __main__ - INFO -    Fighters: 4455 total, 0 with career stats
+2026-03-04 12:03:48,278 - __main__ - INFO -    Events: 33
+2026-03-04 12:03:48,278 - __main__ - INFO -    Fights: 218
+2026-03-04 12:03:48,278 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 12:03:48,278 - __main__ - INFO - Progress: 2500/4455 fighters processed
+2026-03-04 12:05:40,895 - __main__ - INFO - Progress: 2550/4455 fighters processed
+2026-03-04 12:07:32,028 - __main__ - INFO - Progress: 2600/4455 fighters processed
+2026-03-04 12:09:25,642 - __main__ - INFO - Progress: 2650/4455 fighters processed
+2026-03-04 12:11:18,495 - __main__ - INFO - Progress: 2700/4455 fighters processed
+2026-03-04 12:13:06,565 - __main__ - INFO - Progress: 2750/4455 fighters processed
+2026-03-04 12:14:56,170 - __main__ - INFO - Progress: 2800/4455 fighters processed
+2026-03-04 12:17:09,375 - __main__ - INFO - Progress: 2850/4455 fighters processed
+2026-03-04 12:19:23,970 - __main__ - INFO - Progress: 2900/4455 fighters processed
+2026-03-04 12:21:34,132 - __main__ - INFO - Progress: 2950/4455 fighters processed
+2026-03-04 12:23:27,348 - __main__ - INFO - 🏁 MILESTONE: Fighter Career Stats - 3000 completed of 4455
+2026-03-04 12:23:27,363 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 12:23:27,363 - __main__ - INFO -    Fighters: 4455 total, 4 with career stats
+2026-03-04 12:23:27,363 - __main__ - INFO -    Events: 33
+2026-03-04 12:23:27,363 - __main__ - INFO -    Fights: 218
+2026-03-04 12:23:27,363 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 12:23:27,364 - __main__ - INFO - Progress: 3000/4455 fighters processed
+2026-03-04 12:25:17,579 - __main__ - INFO - Progress: 3050/4455 fighters processed
+2026-03-04 12:27:06,311 - __main__ - INFO - Progress: 3100/4455 fighters processed
+2026-03-04 12:28:59,072 - __main__ - INFO - Progress: 3150/4455 fighters processed
+2026-03-04 12:30:49,360 - __main__ - INFO - Progress: 3200/4455 fighters processed
+2026-03-04 12:32:39,549 - __main__ - INFO - Progress: 3250/4455 fighters processed
+2026-03-04 12:34:28,030 - __main__ - INFO - Progress: 3300/4455 fighters processed
+2026-03-04 12:36:16,813 - __main__ - INFO - Progress: 3350/4455 fighters processed
+2026-03-04 12:38:07,721 - __main__ - INFO - Progress: 3400/4455 fighters processed
+2026-03-04 12:39:56,539 - __main__ - INFO - Progress: 3450/4455 fighters processed
+2026-03-04 12:41:48,032 - __main__ - INFO - 🏁 MILESTONE: Fighter Career Stats - 3500 completed of 4455
+2026-03-04 12:41:48,049 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 12:41:48,049 - __main__ - INFO -    Fighters: 4455 total, 4 with career stats
+2026-03-04 12:41:48,049 - __main__ - INFO -    Events: 33
+2026-03-04 12:41:48,049 - __main__ - INFO -    Fights: 218
+2026-03-04 12:41:48,050 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 12:41:48,050 - __main__ - INFO - Progress: 3500/4455 fighters processed
+2026-03-04 12:43:37,156 - __main__ - INFO - Progress: 3550/4455 fighters processed
+2026-03-04 12:45:26,478 - __main__ - INFO - Progress: 3600/4455 fighters processed
+2026-03-04 12:47:14,827 - __main__ - INFO - Progress: 3650/4455 fighters processed
+2026-03-04 12:49:05,643 - __main__ - INFO - Progress: 3700/4455 fighters processed
+2026-03-04 12:50:54,591 - __main__ - INFO - Progress: 3750/4455 fighters processed
+2026-03-04 12:52:45,998 - __main__ - INFO - Progress: 3800/4455 fighters processed
+2026-03-04 12:54:33,649 - __main__ - INFO - Progress: 3850/4455 fighters processed
+2026-03-04 12:56:22,856 - __main__ - INFO - Progress: 3900/4455 fighters processed
+2026-03-04 12:58:09,924 - __main__ - INFO - Progress: 3950/4455 fighters processed
+2026-03-04 13:00:00,789 - __main__ - INFO - 🏁 MILESTONE: Fighter Career Stats - 4000 completed of 4455
+2026-03-04 13:00:00,801 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 13:00:00,802 - __main__ - INFO -    Fighters: 4455 total, 4 with career stats
+2026-03-04 13:00:00,802 - __main__ - INFO -    Events: 33
+2026-03-04 13:00:00,802 - __main__ - INFO -    Fights: 218
+2026-03-04 13:00:00,802 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 13:00:00,802 - __main__ - INFO - Progress: 4000/4455 fighters processed
+2026-03-04 13:01:47,542 - __main__ - INFO - Progress: 4050/4455 fighters processed
+2026-03-04 13:03:37,982 - __main__ - INFO - Progress: 4100/4455 fighters processed
+2026-03-04 13:05:50,465 - __main__ - INFO - Progress: 4150/4455 fighters processed
+2026-03-04 13:07:43,517 - __main__ - INFO - Progress: 4200/4455 fighters processed
+2026-03-04 13:09:29,451 - __main__ - INFO - Progress: 4250/4455 fighters processed
+2026-03-04 13:11:17,691 - __main__ - INFO - Progress: 4300/4455 fighters processed
+2026-03-04 13:13:03,839 - __main__ - INFO - Progress: 4350/4455 fighters processed
+2026-03-04 13:14:50,999 - __main__ - INFO - Progress: 4400/4455 fighters processed
+2026-03-04 13:16:39,136 - __main__ - INFO - Progress: 4450/4455 fighters processed
+2026-03-04 13:16:48,752 - __main__ - INFO - ✅ Phase 1 Complete - Updated 0 fighters
+2026-03-04 13:16:48,752 - __main__ - INFO - 🏁 MILESTONE: PHASE 1 COMPLETE - 0 completed 
+2026-03-04 13:16:48,766 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 13:16:48,766 - __main__ - INFO -    Fighters: 4455 total, 4 with career stats
+2026-03-04 13:16:48,766 - __main__ - INFO -    Events: 33
+2026-03-04 13:16:48,767 - __main__ - INFO -    Fights: 218
+2026-03-04 13:16:48,767 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 13:16:48,772 - __main__ - INFO - ============================================================
+2026-03-04 13:16:48,772 - __main__ - INFO - PHASE 2: COLLECTING ALL HISTORICAL EVENTS
+2026-03-04 13:16:48,772 - __main__ - INFO - ============================================================
+2026-03-04 13:16:48,774 - __main__ - INFO - Currently have 33 events
+2026-03-04 13:16:48,774 - scrapers.ufc_scraper - INFO - Fetching events page 1...
+2026-03-04 13:16:50,806 - scrapers.ufc_scraper - INFO - ✅ Total events found: 24
+2026-03-04 13:16:50,806 - __main__ - INFO - Found 24 completed events on UFC Stats
+2026-03-04 13:16:50,813 - __main__ - INFO - ✅ Phase 2 Complete - Added 0 new events
+2026-03-04 13:16:50,814 - __main__ - INFO - 🏁 MILESTONE: PHASE 2 COMPLETE - 0 completed 
+2026-03-04 13:16:50,826 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 13:16:50,826 - __main__ - INFO -    Fighters: 4455 total, 4 with career stats
+2026-03-04 13:16:50,826 - __main__ - INFO -    Events: 33
+2026-03-04 13:16:50,826 - __main__ - INFO -    Fights: 218
+2026-03-04 13:16:50,826 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 13:16:50,826 - __main__ - INFO - ============================================================
+2026-03-04 13:16:50,826 - __main__ - INFO - PHASE 3: COLLECTING ALL FIGHTS & DETAILED STATS
+2026-03-04 13:16:50,826 - __main__ - INFO - ============================================================
+2026-03-04 13:16:50,827 - __main__ - INFO - Processing fights from 33 events
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Moreno vs. Kavanagh: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Strickland vs. Hernandez: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Bautista vs. Oliveira: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC 325: Volkanovski vs. Lopes 2: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC 324: Gaethje vs. Pimblett: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Tsarukyan vs. Hooker: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Garcia vs. Onama: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Oliveira vs. Gamrot: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Lopes vs. Silva: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC - Road to UFC 4.6: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Taira vs. Park: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC 326: Holloway vs. Oliveira 2: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Adesanya vs. Pyfer: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Burns vs. Malott: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Royval vs. Kape: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC 323: Dvalishvili vs. Yan 2: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC 322: Della Maddalena vs. Makhachev: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,829 - __main__ - ERROR - Error processing event UFC Fight Night: Bonfim vs. Brown: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC 321: Aspinall vs. Gane: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: De Ridder vs. Allen: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC 320: Ankalaev vs. Pereira 2: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Ulberg vs. Reyes: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Imavov vs. Borralho: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Walker vs. Zhang: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC 319: Du Plessis vs. Chimaev: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Dolidze vs. Hernandez: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Whittaker vs. De Ridder: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Emmett vs. Vallejos: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Evloev vs. Murphy: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Moicano vs. Duncan: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC 327: Prochazka vs. Ulberg: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Brady vs. Buckley: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - ERROR - Error processing event UFC Fight Night: Della Maddalena vs. Prates: 'Event' object has no attribute 'url'
+2026-03-04 13:16:50,830 - __main__ - INFO - ✅ Phase 3 Complete - Total fights: 218
+2026-03-04 13:16:50,830 - __main__ - INFO - 🏁 MILESTONE: PHASE 3 COMPLETE - 0 completed 
+2026-03-04 13:16:50,839 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 13:16:50,839 - __main__ - INFO -    Fighters: 4455 total, 4 with career stats
+2026-03-04 13:16:50,839 - __main__ - INFO -    Events: 33
+2026-03-04 13:16:50,839 - __main__ - INFO -    Fights: 218
+2026-03-04 13:16:50,839 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 13:16:50,839 - __main__ - INFO - ============================================================
+2026-03-04 13:16:50,839 - __main__ - INFO - COMPREHENSIVE SCRAPE COMPLETE!
+2026-03-04 13:16:50,839 - __main__ - INFO - ============================================================
+2026-03-04 13:16:50,839 - __main__ - INFO - Fighters updated with career stats: 0
+2026-03-04 13:16:50,839 - __main__ - INFO - New events added: 0
+2026-03-04 13:16:50,839 - __main__ - INFO - New fights added: 0
+2026-03-04 13:16:50,839 - __main__ - INFO - New fight stats added: 0
+2026-03-04 13:16:50,839 - __main__ - INFO - Errors: 4488
+2026-03-04 13:16:50,839 - __main__ - INFO - End time: 2026-03-04 13:16:50.839373
+2026-03-04 13:16:50,839 - scrapers.ufc_scraper - INFO - 📊 Scraping Stats: 4456 requests, 0 errors

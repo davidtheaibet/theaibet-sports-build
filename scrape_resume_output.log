@@ -1,0 +1,86 @@
+/Users/zacharyreid/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-04 03:03:32,842 - __main__ - INFO - 🚀 RESTARTING UFC DATA SCRAPE (RESUME MODE)
+2026-03-04 03:03:32,842 - __main__ - INFO - Start time: 2026-03-04 03:03:32.842087
+2026-03-04 03:03:32,865 - __main__ - INFO - 📊 PROGRESS - Fighters: 860, Events: 14, Fights: 53, Stats: 100
+2026-03-04 03:03:32,865 - __main__ - INFO - Resuming from: 860 fighters already saved
+2026-03-04 03:03:32,865 - __main__ - INFO - ==================================================
+2026-03-04 03:03:32,865 - __main__ - INFO - PHASE 1: Scraping remaining fighters
+2026-03-04 03:03:32,865 - __main__ - INFO - ==================================================
+2026-03-04 03:03:32,865 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'A'...
+2026-03-04 03:03:36,853 - scrapers.ufc_scraper - INFO -   Found 32 fighters
+2026-03-04 03:03:36,853 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'B'...
+2026-03-04 03:03:39,626 - scrapers.ufc_scraper - INFO -   Found 25 fighters
+2026-03-04 03:03:39,626 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'C'...
+2026-03-04 03:03:43,011 - scrapers.ufc_scraper - INFO -   Found 63 fighters
+2026-03-04 03:03:43,011 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'D'...
+2026-03-04 03:03:45,672 - scrapers.ufc_scraper - INFO -   Found 86 fighters
+2026-03-04 03:03:45,672 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'E'...
+2026-03-04 03:03:48,405 - scrapers.ufc_scraper - INFO -   Found 37 fighters
+2026-03-04 03:03:48,405 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'F'...
+2026-03-04 03:03:50,871 - scrapers.ufc_scraper - INFO -   Found 26 fighters
+2026-03-04 03:03:50,871 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'G'...
+2026-03-04 03:03:54,085 - scrapers.ufc_scraper - INFO -   Found 39 fighters
+2026-03-04 03:03:54,085 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'H'...
+2026-03-04 03:03:56,627 - scrapers.ufc_scraper - INFO -   Found 45 fighters
+2026-03-04 03:03:56,628 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'I'...
+2026-03-04 03:03:59,273 - scrapers.ufc_scraper - INFO -   Found 37 fighters
+2026-03-04 03:03:59,273 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'J'...
+2026-03-04 03:04:03,026 - scrapers.ufc_scraper - INFO -   Found 279 fighters
+2026-03-04 03:04:03,027 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'K'...
+2026-03-04 03:04:05,618 - scrapers.ufc_scraper - INFO -   Found 106 fighters
+2026-03-04 03:04:05,618 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'L'...
+2026-03-04 03:04:08,100 - scrapers.ufc_scraper - INFO -   Found 88 fighters
+2026-03-04 03:04:08,100 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'M'...
+2026-03-04 03:04:11,545 - scrapers.ufc_scraper - INFO -   Found 272 fighters
+2026-03-04 03:04:11,545 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'N'...
+2026-03-04 03:04:13,883 - scrapers.ufc_scraper - INFO -   Found 69 fighters
+2026-03-04 03:04:13,883 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'O'...
+2026-03-04 03:04:16,251 - scrapers.ufc_scraper - INFO -   Found 16 fighters
+2026-03-04 03:04:16,251 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'P'...
+2026-03-04 03:04:19,422 - scrapers.ufc_scraper - INFO -   Found 76 fighters
+2026-03-04 03:04:19,422 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'Q'...
+2026-03-04 03:04:21,952 - scrapers.ufc_scraper - INFO -   Found 6 fighters
+2026-03-04 03:04:21,952 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'R'...
+2026-03-04 03:04:24,813 - scrapers.ufc_scraper - INFO -   Found 247 fighters
+2026-03-04 03:04:24,813 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'S'...
+2026-03-04 03:04:27,921 - scrapers.ufc_scraper - INFO -   Found 240 fighters
+2026-03-04 03:04:27,921 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'T'...
+2026-03-04 03:04:30,714 - scrapers.ufc_scraper - INFO -   Found 211 fighters
+2026-03-04 03:04:30,714 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'U'...
+2026-03-04 03:04:34,146 - scrapers.ufc_scraper - INFO -   Found 6 fighters
+2026-03-04 03:04:34,146 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'V'...
+2026-03-04 03:04:36,572 - scrapers.ufc_scraper - INFO -   Found 58 fighters
+2026-03-04 03:04:36,572 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'W'...
+2026-03-04 03:04:39,326 - scrapers.ufc_scraper - INFO -   Found 56 fighters
+2026-03-04 03:04:39,326 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'X'...
+2026-03-04 03:04:41,813 - scrapers.ufc_scraper - INFO -   Found 6 fighters
+2026-03-04 03:04:41,813 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'Y'...
+2026-03-04 03:04:44,134 - scrapers.ufc_scraper - INFO -   Found 72 fighters
+2026-03-04 03:04:44,134 - scrapers.ufc_scraper - INFO - Fetching fighters starting with 'Z'...
+2026-03-04 03:04:46,748 - scrapers.ufc_scraper - INFO -   Found 33 fighters
+2026-03-04 03:04:46,748 - scrapers.ufc_scraper - INFO - ✅ Total fighters found: 4455
+2026-03-04 03:04:46,748 - __main__ - INFO - Found 4455 total fighters on UFC Stats
+2026-03-04 03:04:47,252 - __main__ - INFO - Need to process: 3595 new fighters
+2026-03-04 03:06:53,075 - __main__ - INFO - Progress: 50/3595 processed (50 new)
+2026-03-04 03:08:52,493 - __main__ - INFO - 📊 PROGRESS - Fighters: 960, Events: 14, Fights: 53, Stats: 100
+2026-03-04 03:08:52,493 - __main__ - INFO - Progress: 100/3595 processed (100 new)
+2026-03-04 03:10:51,394 - __main__ - INFO - Progress: 150/3595 processed (150 new)
+2026-03-04 03:12:48,231 - __main__ - INFO - 📊 PROGRESS - Fighters: 1060, Events: 14, Fights: 53, Stats: 100
+2026-03-04 03:12:48,231 - __main__ - INFO - Progress: 200/3595 processed (200 new)
+2026-03-04 03:14:39,539 - __main__ - INFO - Progress: 250/3595 processed (250 new)
+2026-03-04 03:16:26,601 - __main__ - INFO - 📊 PROGRESS - Fighters: 1160, Events: 14, Fights: 53, Stats: 100
+2026-03-04 03:16:26,602 - __main__ - INFO - Progress: 300/3595 processed (300 new)
+2026-03-04 03:18:13,893 - __main__ - INFO - Progress: 350/3595 processed (350 new)
+2026-03-04 03:20:00,759 - __main__ - INFO - 📊 PROGRESS - Fighters: 1260, Events: 14, Fights: 53, Stats: 100
+2026-03-04 03:20:00,760 - __main__ - INFO - Progress: 400/3595 processed (400 new)
+2026-03-04 03:21:48,488 - __main__ - INFO - Progress: 450/3595 processed (450 new)
+2026-03-04 03:23:36,569 - __main__ - INFO - 📊 PROGRESS - Fighters: 1360, Events: 14, Fights: 53, Stats: 100
+2026-03-04 03:23:36,569 - __main__ - INFO - Progress: 500/3595 processed (500 new)
+2026-03-04 03:25:24,582 - __main__ - INFO - Progress: 550/3595 processed (550 new)
+2026-03-04 03:27:13,966 - __main__ - INFO - 📊 PROGRESS - Fighters: 1460, Events: 14, Fights: 53, Stats: 100
+2026-03-04 03:27:13,966 - __main__ - INFO - Progress: 600/3595 processed (600 new)
+2026-03-04 03:28:59,676 - __main__ - INFO - Progress: 650/3595 processed (650 new)
+2026-03-04 03:30:47,606 - __main__ - INFO - 📊 PROGRESS - Fighters: 1560, Events: 14, Fights: 53, Stats: 100
+2026-03-04 03:30:47,606 - __main__ - INFO - Progress: 700/3595 processed (700 new)
+2026-03-04 03:32:35,779 - __main__ - INFO - Progress: 750/3595 processed (750 new)

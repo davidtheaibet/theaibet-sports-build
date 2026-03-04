@@ -1,0 +1,99 @@
+2026-03-04 18:45:28,380 - __main__ - INFO - 🚀 STARTING PHASES 2 & 3: EVENTS + ALL FIGHTS
+2026-03-04 18:45:28,380 - __main__ - INFO - Start time: 2026-03-04 18:45:28.380896
+2026-03-04 18:45:28,400 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 18:45:28,400 - __main__ - INFO -    Fighters: 4455 total, 4455 with career stats
+2026-03-04 18:45:28,400 - __main__ - INFO -    Events: 33
+2026-03-04 18:45:28,400 - __main__ - INFO -    Fights: 218
+2026-03-04 18:45:28,400 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 18:45:28,400 - __main__ - INFO - ============================================================
+2026-03-04 18:45:28,400 - __main__ - INFO - PHASE 2: COLLECTING ALL HISTORICAL EVENTS
+2026-03-04 18:45:28,400 - __main__ - INFO - ============================================================
+2026-03-04 18:45:28,401 - __main__ - INFO - Currently have 33 events
+2026-03-04 18:45:28,401 - scrapers.ufc_scraper - INFO - Fetching events page 1...
+2026-03-04 18:45:30,876 - scrapers.ufc_scraper - INFO - ✅ Total events found: 24
+2026-03-04 18:45:30,876 - __main__ - INFO - Found 24 completed events on UFC Stats
+2026-03-04 18:45:30,883 - __main__ - INFO - ✅ Phase 2 Complete - Added 0 new events
+2026-03-04 18:45:30,883 - __main__ - INFO - 🏁 MILESTONE: PHASE 2 COMPLETE - 0 completed 
+2026-03-04 18:45:30,894 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 18:45:30,894 - __main__ - INFO -    Fighters: 4455 total, 4455 with career stats
+2026-03-04 18:45:30,894 - __main__ - INFO -    Events: 33
+2026-03-04 18:45:30,894 - __main__ - INFO -    Fights: 218
+2026-03-04 18:45:30,894 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 18:45:30,894 - __main__ - INFO - ============================================================
+2026-03-04 18:45:30,894 - __main__ - INFO - PHASE 3: COLLECTING ALL FIGHTS & DETAILED STATS
+2026-03-04 18:45:30,895 - __main__ - INFO - ============================================================
+2026-03-04 18:45:30,896 - __main__ - INFO - Processing fights from 33 events
+2026-03-04 18:45:30,897 - __main__ - ERROR - Error processing event UFC Fight Night: Moreno vs. Kavanagh: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,897 - __main__ - ERROR - Error processing event UFC Fight Night: Strickland vs. Hernandez: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,897 - __main__ - ERROR - Error processing event UFC Fight Night: Bautista vs. Oliveira: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,897 - __main__ - ERROR - Error processing event UFC 325: Volkanovski vs. Lopes 2: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,897 - __main__ - ERROR - Error processing event UFC 324: Gaethje vs. Pimblett: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,897 - __main__ - ERROR - Error processing event UFC Fight Night: Tsarukyan vs. Hooker: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,897 - __main__ - ERROR - Error processing event UFC Fight Night: Garcia vs. Onama: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Oliveira vs. Gamrot: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Lopes vs. Silva: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC - Road to UFC 4.6: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Taira vs. Park: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC 326: Holloway vs. Oliveira 2: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Adesanya vs. Pyfer: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Burns vs. Malott: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Royval vs. Kape: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC 323: Dvalishvili vs. Yan 2: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC 322: Della Maddalena vs. Makhachev: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Bonfim vs. Brown: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC 321: Aspinall vs. Gane: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: De Ridder vs. Allen: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC 320: Ankalaev vs. Pereira 2: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Ulberg vs. Reyes: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Imavov vs. Borralho: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Walker vs. Zhang: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC 319: Du Plessis vs. Chimaev: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Dolidze vs. Hernandez: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Whittaker vs. De Ridder: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Emmett vs. Vallejos: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Evloev vs. Murphy: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Moicano vs. Duncan: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC 327: Prochazka vs. Ulberg: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Brady vs. Buckley: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - ERROR - Error processing event UFC Fight Night: Della Maddalena vs. Prates: 'Event' object has no attribute 'url'
+2026-03-04 18:45:30,898 - __main__ - INFO - ✅ Phase 3 Complete - Total fights in DB: 218
+2026-03-04 18:45:30,898 - __main__ - INFO - 🏁 MILESTONE: PHASE 3 COMPLETE - 0 completed 
+2026-03-04 18:45:30,906 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 18:45:30,906 - __main__ - INFO -    Fighters: 4455 total, 4455 with career stats
+2026-03-04 18:45:30,906 - __main__ - INFO -    Events: 33
+2026-03-04 18:45:30,906 - __main__ - INFO -    Fights: 218
+2026-03-04 18:45:30,906 - __main__ - INFO -    Fight Stats: 430
+2026-03-04 18:45:30,906 - __main__ - INFO - ============================================================
+2026-03-04 18:45:30,906 - __main__ - INFO - PHASES 2 & 3 COMPLETE!
+2026-03-04 18:45:30,906 - __main__ - INFO - ============================================================
+2026-03-04 18:45:30,906 - __main__ - INFO - New events added: 0
+2026-03-04 18:45:30,906 - __main__ - INFO - New fights added: 0
+2026-03-04 18:45:30,906 - __main__ - INFO - New fight stats added: 0
+2026-03-04 18:45:30,906 - __main__ - INFO - Errors: 33
+2026-03-04 18:45:30,906 - __main__ - INFO - End time: 2026-03-04 18:45:30.906962
+2026-03-04 18:45:30,906 - scrapers.ufc_scraper - INFO - 📊 Scraping Stats: 1 requests, 0 errors
+2026-03-04 18:48:17,414 - __main__ - INFO - 🚀 STARTING PHASES 2 & 3: EVENTS + ALL FIGHTS
+2026-03-04 18:48:17,414 - __main__ - INFO - Start time: 2026-03-04 18:48:17.414624
+2026-03-04 18:48:17,434 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 18:48:17,434 - __main__ - INFO -    Fighters: 4455 total, 4455 with career stats
+2026-03-04 18:48:17,434 - __main__ - INFO -    Events: 0
+2026-03-04 18:48:17,434 - __main__ - INFO -    Fights: 0
+2026-03-04 18:48:17,434 - __main__ - INFO -    Fight Stats: 0
+2026-03-04 18:48:17,434 - __main__ - INFO - ============================================================
+2026-03-04 18:48:17,434 - __main__ - INFO - PHASE 2: COLLECTING ALL HISTORICAL EVENTS
+2026-03-04 18:48:17,434 - __main__ - INFO - ============================================================
+2026-03-04 18:48:17,435 - __main__ - INFO - Currently have 0 events
+2026-03-04 18:48:17,435 - scrapers.ufc_scraper - INFO - Fetching events page 1...
+2026-03-04 18:48:19,786 - scrapers.ufc_scraper - INFO - ✅ Total events found: 24
+2026-03-04 18:48:19,786 - __main__ - INFO - Found 24 completed events on UFC Stats
+2026-03-04 18:48:19,811 - __main__ - INFO - ✅ Phase 2 Complete - Added 24 new events
+2026-03-04 18:48:19,812 - __main__ - INFO - 🏁 MILESTONE: PHASE 2 COMPLETE - 24 completed 
+2026-03-04 18:48:19,820 - __main__ - INFO - 📊 OVERALL PROGRESS:
+2026-03-04 18:48:19,820 - __main__ - INFO -    Fighters: 4455 total, 4455 with career stats
+2026-03-04 18:48:19,820 - __main__ - INFO -    Events: 24
+2026-03-04 18:48:19,820 - __main__ - INFO -    Fights: 0
+2026-03-04 18:48:19,820 - __main__ - INFO -    Fight Stats: 0
+2026-03-04 18:48:19,820 - __main__ - INFO - ============================================================
+2026-03-04 18:48:19,820 - __main__ - INFO - PHASE 3: COLLECTING ALL FIGHTS & DETAILED STATS
+2026-03-04 18:48:19,820 - __main__ - INFO - ============================================================
+2026-03-04 18:48:19,821 - __main__ - INFO - Processing fights from 24 events
