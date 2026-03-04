@@ -84,6 +84,7 @@ class Event(Base):
     date = Column(Date, index=True)
     location = Column(String(200))
     venue = Column(String(200))
+    url = Column(String(500))  # Event detail page URL
     
     # Event type
     is_ppv = Column(Boolean, default=False)
