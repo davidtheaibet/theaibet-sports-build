@@ -210,12 +210,17 @@ class UFCScraper:
                     logger.debug(f"Error parsing event row: {e}")
                     continue
             
-            # Check for next page
-            pagination = soup.find('div', class_='pagination')
-            if not pagination or not pagination.find('a', class_='b-statistics__pagination-item', string='next'):
+            # Check for next page - keep going until we get no events
+            # UFC Stats uses simple page numbers, no "next" button
+            if len(rows) <= 1:
                 break
             
             page_num += 1
+            
+            # Safety limit - UFC has ~600 events, shouldn't exceed 50 pages
+            if page_num > 50:
+                logger.warning("Hit page limit (50), stopping")
+                break
         
         logger.info(f"✅ Total events found: {len(events)}")
         return events
